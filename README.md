@@ -1,4 +1,4 @@
-# -alculator
+# Сalculator
 Simple calculator with a loop
 
 while True:
